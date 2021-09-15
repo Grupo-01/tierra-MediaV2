@@ -1,0 +1,8 @@
+# Default ignored files
+/.idea
+/out
+/bin
+.classpath
+.project
+*.txt
+tierra-media.iml
