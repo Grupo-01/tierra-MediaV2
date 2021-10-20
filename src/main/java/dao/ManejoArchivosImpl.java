@@ -14,7 +14,6 @@ public class ManejoArchivosImpl implements ManejoArchivos {
     private String[] datosDeLinea = null;
 
 
-    @Override
     public Queue<Usuario> listarUsuarios(String nombreArchivo) throws LecturaDatosException {
 
         Queue<Usuario> usuarios = new LinkedList<>();
