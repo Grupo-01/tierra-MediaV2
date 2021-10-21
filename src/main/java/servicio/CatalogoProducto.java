@@ -1,7 +1,7 @@
 package servicio;
 
 import excepciones.*;
-import dominio.Usuario;
+import modelo.Usuario;
 
 public interface CatalogoProducto {
 

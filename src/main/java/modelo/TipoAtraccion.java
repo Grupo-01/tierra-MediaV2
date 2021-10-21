@@ -1,4 +1,4 @@
-package dominio;
+package modelo;
 
 public enum TipoAtraccion {
     AVENTURA(), PAISAJE(), DEGUSTACION();

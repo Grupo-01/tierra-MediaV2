@@ -1,7 +1,8 @@
 package dao;
 
 import excepciones.*;
-import dominio.*;
+import modelo.*;
+
 import java.io.*;
 import java.text.DecimalFormat;
 import java.util.*;

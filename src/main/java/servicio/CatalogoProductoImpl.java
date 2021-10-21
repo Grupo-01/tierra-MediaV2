@@ -1,8 +1,9 @@
 package servicio;
 
 import excepciones.*;
+import modelo.*;
 import dao.*;
-import dominio.*;
+
 import java.util.*;
 
 public class CatalogoProductoImpl implements CatalogoProducto {

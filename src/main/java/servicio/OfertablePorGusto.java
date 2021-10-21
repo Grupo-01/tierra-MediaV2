@@ -1,11 +1,11 @@
 package servicio;
 
-import dominio.*;
+import static modelo.TipoAtraccion.*;
 
 import java.util.Comparator;
 import java.util.LinkedList;
 
-import static dominio.TipoAtraccion.*;
+import modelo.*;
 
 public class OfertablePorGusto implements Comparator<Ofertable> {
 
